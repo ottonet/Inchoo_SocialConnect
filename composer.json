@@ -1,0 +1,14 @@
+{
+    "name": "inchoo/socialconnect",
+    "description": "Inchoo_SocialConnect Magento module.",
+    "type": "magento-module", 
+    "authors": [
+        {
+            "name": "Marko Martinović",
+            "email": "web@inchoo.net"
+        }
+    ],
+    "require": {
+	"magento-hackathon/magento-composer-installer": "*"
+    }
+}
